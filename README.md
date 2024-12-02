@@ -1,6 +1,5 @@
-/*## Hi there 👋 */
 <div id="header" align="center">
-    <h1>Hi there, I`m Artem</h1>
+    <h1>👋 Hi there, I`m Artem</h1>
     <h3>I`m Pythom developer</h3>
 </div>
 <div id="body" align="center">
